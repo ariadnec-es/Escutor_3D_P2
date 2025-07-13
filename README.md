@@ -1,6 +1,6 @@
-# DCA1202-ESCULTOR-3D-PARTE-2
+ESCULTOR 3D PARTE 2
 
-**Componentes: Allyson Oliveira e Ariadne Silva**
+**Projeto desenvolvido por Allyson Oliveira e Ariadne Silva**
 
 ### **1. Introdução**
 <p align = "justify">
